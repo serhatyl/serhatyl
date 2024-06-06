@@ -11,6 +11,10 @@
 
 
 
+<p align="center">
+<a href="https://www.linkedin.com/in/serhat-yilmaz" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="serhatyilmaz" height="30" width="30" /></a>
+</p>
+
 
 <!--
 **serhatyl/serhatyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
