@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serhatyl" alt="serhatyilmaz" /></p>
 
-- 👨‍💻 I'm currently working as a Frontend Developer on [otelz.com](https://otelz.com) @Istanbul, Turkey
+- 👨‍💻 I'm currently working as a Frontend Developer(NextJS) on [otelz.com](https://otelz.com) @Istanbul, Turkey
 - 🌱 I'm currently learning micro frontends
 - 📫 How to reach me **yilmaz.srhat@gmail.com**
 - ⚡ Fun fact: Running, Cycling, Swimming Music
