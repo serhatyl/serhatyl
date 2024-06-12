@@ -6,7 +6,7 @@
 - 👨‍💻 I'm currently working as a Frontend Developer(NextJS) on [otelz.com](https://otelz.com) @Istanbul, Turkey
 - 🌱 I'm currently learning micro frontends
 - 📫 How to reach me **yilmaz.srhat@gmail.com**
-- ⚡ Fun fact: Running, Cycling, Swimming Music
+- ⚡ Fun fact: Running, Cycling, Swimming & Music
 - 🌐 You can view my portfolio by clicking [here](https://serhatyilmaz.vercel.app/)
 
 
