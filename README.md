@@ -1,5 +1,8 @@
 
 <h1 align="center">Hi there 👋 I'm -Serhat Yılmaz</h1>
+<p>
+Proficient in developing cross-platform applications using HTML, CSS, and JavaScript, with a focus on developing high-traffic, SEO-compliant websites. Eager to learn new technologies, adaptable to agile methodologies, and a team player. Enthusiastic about sports and exploring new places.
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serhatyl" alt="serhatyilmaz" /></p>
 
@@ -14,7 +17,7 @@
 <h6 align="center">My Social Links</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/serhat-yilmaz" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="serhatyilmaz" height="30" width="30" /></a>
-<a href="https://www.instagram.com/serhat_yiilmaaz" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="serhatyilmaz" height="30" width="30" /></a>
+<a href="https://x.com/syilmaz42" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="serhatyilmaz" height="30" width="30" /></a>
 </p>
 
 
