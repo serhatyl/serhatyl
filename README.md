@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there 👋 I'm -Serhat Yılmaz</h1>
 <p>
-Proficient in developing cross-platform applications using HTML, CSS, and JavaScript, with a focus on developing high-traffic, SEO-compliant websites. Eager to learn new technologies, adaptable to agile methodologies, and a team player. Enthusiastic about sports and exploring new places.
+Proficient in developing cross-platform applications using HTML, CSS, JavaScript, TypeScript, React, React Native and NextJS with a focus on developing high-traffic, SEO-compliant websites. Eager to learn new technologies, adaptable to agile methodologies, and a team player.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serhatyl" alt="serhatyilmaz" /></p>
