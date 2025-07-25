@@ -6,7 +6,7 @@ Proficient in developing cross-platform applications using HTML, CSS, JavaScript
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serhatyl" alt="serhatyilmaz" /></p>
 
-- 👨‍💻 I'm currently working as a Frontend Developer(NextJS) at [otelz.com](https://otelz.com)
+- 👨‍💻 I'm currently working as a Senior Frontend Developer at [nesine.com](https://nesine.com)
 - 🌱 I'm currently learning micro frontends
 - 📫 How to reach me **yilmaz.srhat@gmail.com**
 - ⚡ Fun fact: Running, Cycling, Swimming & Music
