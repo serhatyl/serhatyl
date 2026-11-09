@@ -6,8 +6,8 @@ Proficient in developing cross-platform applications using HTML, CSS, JavaScript
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serhatyl" alt="serhatyilmaz" /></p>
 
-- 👨‍💻 I'm currently working as a Senior Frontend Developer at [nesine.com](https://nesine.com)
-- 🌱 I'm currently learning micro frontends
+- 👨‍💻 I'm currently working as a Software Engineer at [trendyol.com](https://trendyol.com)
+- 🌱 I'm currently learning AI Agents, Tool Calling, RAG, Langchain, Langgraph
 - 📫 How to reach me **yilmaz.srhat@gmail.com**
 - ⚡ Fun fact: Running, Cycling, Swimming & Music
 - 🌐 You can view my portfolio by clicking [here](https://serhatyilmaz.vercel.app/)
