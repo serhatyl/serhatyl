@@ -1,9 +1,7 @@
 
 <h1 align="center">Hi there 👋 I'm -Serhat Yılmaz</h1>
 <p>
-Senior Software Engineer with 9+ years of experience building scalable, high-performance web and cross-platform applications using JavaScript, TypeScript, React, React Native, and Next.js.
-
-Experienced in frontend architecture, microfrontend systems, performance optimization, SEO, real-time applications, and secure payment integrations.
+Senior Software Engineer with 9+ years of experience building scalable, high-performance web and cross-platform applications using JavaScript, TypeScript, Pytohn, LangChain, Golang, React, React Native, and Next.js.
 
 At Trendyol, I worked on large-scale payment applications, reusable card payment components, PCI DSS security compliance, and end-to-end software delivery, including CI/CD pipelines and Kubernetes-based environments.
 
