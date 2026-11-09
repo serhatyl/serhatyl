@@ -1,7 +1,15 @@
 
 <h1 align="center">Hi there 👋 I'm -Serhat Yılmaz</h1>
 <p>
-Proficient in developing cross-platform applications using HTML, CSS, JavaScript, TypeScript, React, React Native and NextJS with a focus on developing high-traffic, SEO-compliant websites. Eager to learn new technologies, adaptable to agile methodologies, and a team player.
+Senior Software Engineer with 9+ years of experience building scalable, high-performance web and cross-platform applications using JavaScript, TypeScript, React, React Native, and Next.js.
+
+Experienced in frontend architecture, microfrontend systems, performance optimization, SEO, real-time applications, and secure payment integrations.
+
+At Trendyol, I worked on large-scale payment applications, reusable card payment components, PCI DSS security compliance, and end-to-end software delivery, including CI/CD pipelines and Kubernetes-based environments.
+
+Currently expanding my expertise into AI Engineering, with a strong focus on Python, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, agentic workflows, and Model Context Protocol (MCP).
+
+Interested in bridging traditional software engineering with AI to build intelligent, scalable, and production-ready applications.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serhatyl" alt="serhatyilmaz" /></p>
